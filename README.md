@@ -27,7 +27,9 @@
 • Analyzed trends in net revenue, gross profit, EBITDA, and PAT percentages to assess profitability.
  Evaluated performance by product category and location, identifying top performers.
  Conducted cost analysis and SKU turnover assessments to optimize inventory management.
- Developed budgeting models and performed variance analysis for improved financial planning
+ Developed budgeting models and performed variance analysis for improved financial planning.
+
+• Comprehensive Sales & Profit Analysis:- Visualized total revenue (NR) of $30.2M YTD with 15.1% YoY growth, alongside detailed trends in gross profit (GP), EBITDA, and PAT by product category, location, and time.
 
 • SKU Performance and Cost Analysis: Analyzed SKU performance across regions, identifying top-performing products and clusters. Managed marketing, distribution, and raw material costs to assess profitability.
 
