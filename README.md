@@ -20,6 +20,8 @@
 
 • Used advanced Excel functions and formulas to ensure that the integrated data maintained its accuracy and relevance for subsequent analysis.
 
+• Leveraged advanced DAX functions for complex calculations and data manipulation.
+
  ➋Financial Performance Analysis:
 
 • Analyzed trends in net revenue, gross profit, EBITDA, and PAT percentages to assess profitability.
