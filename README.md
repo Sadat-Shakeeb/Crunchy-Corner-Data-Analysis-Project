@@ -1,5 +1,7 @@
 # Crunchy-Corner-Data-Analysis-Project
 
+![](https://github.com/Sadat-Shakeeb/Crunchy-Corner-Data-Analysis-Project/blob/main/Dashboard_Screenshot.png?raw=true)
+
 ⦿ Project Overview:
 
 • Client: Crunchy Corner, one of India’s largest fast food chains, catering to millions of customers daily.
